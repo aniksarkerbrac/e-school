@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+}.container{
+    margin-bottom: 50px;
+}
+.hero-area{
+    height: auto;
+    width: 100%;
+    background-color: #F0FFF0;
+    padding-bottom: 20px;
+}
+.nav-color{
+    background-color:#F0FFF0 ;
+}
+.resize-logo img{
+    width: 198.07px;
+    height: 59px;
+}
+.text-color-orange{
+    color:#FD511A;
+}
+.text-color-green{
+    color: #21B573;
+}
+.about-e-school{
+    width: 100%;
+    height: auto;
+    padding: 30px 0px;
+}
+.about-e-school img{
+    width: 66px;
+    height: 85px;
+}
+.box{
+    width: 270px;
+    height: 270px;
+    background-color: #F0FFF0;
+}
+.box:hover{
+    width: 270px;
+    height: 270px;
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.keep-content-center{
+    text-align: center;
+}
+.signin-button{
+    width: 100px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: #21B573;
+    color: white;
+    border: none;
+}
+.beauty-button{
+    width: 137px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: #21B573;
+    color: white;
+    border: none;
+}
+.card-deck img{
+    padding: 20px 20px 0px 20px;
+    height: 230px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+h1{
+    font-weight: bold;  
+}
+h2{
+    text-align: center;
+    padding-bottom: 3%;
+    font-weight: bold;
+}
+.testimonial{
+    padding: 20px 0;
+}
+.man-image-size{
+    width: 120px;
+    height: 120px;
+}
+footer{
+    padding-top: 35px;
+    width: 100%;
+    height: auto;
+    background-color: #282531;
+    color: white;
+    padding-bottom: 20px;
+}
+.text-position{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 30px;
+} 
+footer li{
+    list-style: none;
+} 
